@@ -1,5 +1,8 @@
 ## ML_House_Price
 ML pipeline predicting house sale prices — from raw data cleaning to XGBoost modelling, built with Python &amp; Scikit-Learn.
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-1.3-orange)
+![XGBoost](https://img.shields.io/badge/XGBoost-2.0-green)
 
 ## House Prices — ML Regression Project
 
